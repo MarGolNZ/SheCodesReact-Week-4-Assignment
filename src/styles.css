@@ -17,3 +17,13 @@ h1 {
 .row {
   padding: 0;
 }
+
+ul {
+  list-style: none;
+  text-align: justify;
+}
+
+img {
+  text-align: justify;
+  display: block;
+}
